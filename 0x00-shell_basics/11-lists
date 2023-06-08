@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la "$cur_wd" "$parent_wd" /boot
+ls -al . .. /boot
